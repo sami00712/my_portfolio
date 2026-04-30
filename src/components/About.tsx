@@ -71,7 +71,7 @@ export function About() {
           >
             <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden glass-card p-3">
               <img 
-                src="/profile.png" 
+                src="https://i.ibb.co/hJLtZP2j/profile.jpg" 
                 alt="Muhammad Sami Portrait" 
                 className="w-full h-full object-cover rounded-[2rem] grayscale contrast-125 brightness-75 hover:grayscale-0 hover:brightness-100 transition-all duration-1000"
                 onError={(e) => {
