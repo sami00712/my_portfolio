@@ -84,7 +84,7 @@ export function Hero() {
               {/* Image Container with Border Beam */}
               <div className="relative w-full h-full rounded-[2.5rem] overflow-hidden border border-white/[0.08] shadow-2xl group">
                 <img 
-                  src="/profile.png" 
+                  src="https://i.ibb.co/hJLtZP2j/profile.jpg" 
                   alt="Muhammad Sami" 
                   className="w-full h-full object-cover filter contrast-[1.05] brightness-90 group-hover:scale-105 transition-transform duration-[1.5s]"
                   onError={(e) => {
